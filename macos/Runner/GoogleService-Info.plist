@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>245070611110-udtfuaaspap0l9kpmgg8pv3v0uh7k9oe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.245070611110-udtfuaaspap0l9kpmgg8pv3v0uh7k9oe</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBEBqWW7o9dHrnVM_uj07tvFWQqXZiAJd4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>245070611110</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.snakeGame.snakeGame</string>
+	<key>PROJECT_ID</key>
+	<string>snake-game-6660c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>snake-game-6660c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:245070611110:ios:44eec7b9f2c8da24a22a67</string>
+</dict>
+</plist>
